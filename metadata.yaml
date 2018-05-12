@@ -1,0 +1,59 @@
+_repo: Reptiles-and-BirdsInteresting_45873
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Neuville, Alphonse Marie de
+    aliases:
+    - Neuville, de
+    - Neuville, A. de (Alphonse)
+    - De Neuville, Alphonse Marie
+    birthdate: 1835
+    deathdate: 1885
+    gutenberg_agent_id: '7311'
+    url: http://www.gutenberg.org/2009/agents/7311
+  - agent_name: Mesnel, A.
+    alias: Mesnel
+    gutenberg_agent_id: '43508'
+    url: http://www.gutenberg.org/2009/agents/43508
+  - agent_name: Riou, Edouard
+    aliases:
+    - Riou
+    - Riou, E. (Edouard)
+    - Riou, Édouard
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: archival
+  image_path: 45873-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Figuier, Louis
+    alias: Figuier, Guillaume-Louis
+    birthdate: 1819
+    deathdate: 1894
+    gutenberg_agent_id: '25945'
+    url: http://www.gutenberg.org/2009/agents/25945
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_Figuier
+  editor:
+    agent_name: Gillmore, Parker
+    alias: Gillmore, P. (Parker)
+    gutenberg_agent_id: '31733'
+    url: http://www.gutenberg.org/2009/agents/31733
+description: ''
+gutenberg_issued: '2014-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+- !lcsh 'Reptiles'
+title: "Reptiles and Birds\r\nA Popular Account of Their Various Orders, With a Description\
+  \ of the Habits and Economy of the Most Interesting"
+url: http://www.gutenberg.org/ebooks/45873
